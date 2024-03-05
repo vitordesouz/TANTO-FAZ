@@ -1,7 +1,10 @@
 style.css
-
-body{
+header{
     background-color: #424e61;
     color: white;
    
+}
+
+imagem-cabecalho {
+   widh:25%
 }
