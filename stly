@@ -2,9 +2,12 @@ style.css
 header{
     background-color: #424e61;
     color: white;
-   
+    display: flex;
+    justify-content: ;
 }
 
 imagem-cabecalho {
    widh:25%
 }
+ cabecalho :indeterminate
+ display
